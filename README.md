@@ -26,7 +26,7 @@ This is a Job Portal web application built using React JS.
    npm start
 
 ## Live Demo
-https://job-portal.netlify.app
+https://development-job-portal.netlify.app/
 
 ## Project By
 Anuradha
