@@ -1,4 +1,4 @@
-# Job Portal React Application
+# 🚀 Job Portal React Application
 
 This is a Job Portal web application built using React JS.
 
@@ -7,7 +7,7 @@ This is a Job Portal web application built using React JS.
 - Apply for jobs
 - Save jobs to favorites
 - Login and Signup pages
-- Fully responsive (Desktop & Mobile)
+- Responsive UI
 
 ## Technologies Used
 - HTML
